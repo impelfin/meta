@@ -19,3 +19,6 @@ node/**/pacakge-lock.json
 # python
 python/**/.venv
 python/**/__pycache__
+
+# .env file
+.env
