@@ -16,3 +16,6 @@ maven/target
 node/**/node_modules
 node/**/pacakge-lock.json
 
+# python
+python/**/.venv
+
