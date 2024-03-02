@@ -14,7 +14,7 @@ maven/target
 
 # nodejs
 node/**/node_modules
-node/**/pacakge-lock.json
+node/**/package-lock.json
 
 # python
 python/**/.venv
